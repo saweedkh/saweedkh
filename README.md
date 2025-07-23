@@ -1,16 +1,50 @@
-## Hi there 👋
+# 👋 سلام! من سعید خوانین‌زاده هستم
 
-<!--
-**saweedkh/saweedkh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 توسعه‌دهنده‌ی بک‌اند با تمرکز روی Django | تجربه در Odoo | گهگاهی Next.js 😅
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 درباره‌ی من:
+
+* 🚀 چند ساله دارم با Django کار می‌کنم و توی پروژه‌های حرفه‌ای ازش استفاده کردم.
+* 🧩 با Odoo هم آشنا هستم و پروژه‌های حسابداری و ERP رو توسعه دادم.
+* 🌐 گاهی با Front-End هم درگیر می‌شم و با Next.js به سختی دوست می‌شم!
+* 💬 علاقه‌مند به توسعه‌ی پروژه‌های مقیاس‌پذیر، تمیز و قابل نگهداری.
+
+---
+
+## 🛠️ تکنولوژی‌هایی که باهاشون کار کردم:
+
+![Python](https://img.shields.io/badge/-Python-333?logo=python)
+![Django](https://img.shields.io/badge/-Django-092E20?logo=django)
+![Odoo](https://img.shields.io/badge/-Odoo-714B67?logo=odoo\&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000?logo=next.js)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker)
+
+---
+
+## 📈 آمار گیت‌هاب:
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saeedkhz\&show_icons=true\&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saeedkhz\&layout=compact\&theme=radical)
+
+---
+
+## 📫 راه‌های ارتباطی:
+
+* 📧 ایمیل: [saeed.khz.dev@gmail.com](mailto:saeed.khz.dev@gmail.com)
+* 💼 لینکدین: [linkedin.com/in/saeedkhz](https://linkedin.com/in/saeedkhz)
+* 🌐 وبسایت یا رزومه: به زودی...
+
+---
+
+## 🐍 Snake Contribution Animation
+
+![snake gif](https://github.com/saeedkhz/saeedkhz/blob/output/github-contribution-grid-snake.svg)
+
+
+---
+
+> 🙌 ممنون که سر زدی! اگر پروژه‌ای داری که به بک‌اند حرفه‌ای نیاز داره، در خدمتم :)
