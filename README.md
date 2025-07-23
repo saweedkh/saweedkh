@@ -34,8 +34,8 @@
 
 ## 📫 راه‌های ارتباطی:
 
-* 📧 ایمیل: [saeed.khz.dev@gmail.com](mailto:saeed.khz.dev@gmail.com)
-* 💼 لینکدین: [linkedin.com/in/saeedkhz](https://linkedin.com/in/saeedkhz)
+* 📧 ایمیل: [saweedkh@gmail.com](mailto:saweedkh@gmail.com)
+* 💼 لینکدین: [linkedin.com/in/saweedkh](https://linkedin.com/in/saweedkh)
 * 🌐 وبسایت یا رزومه: به زودی...
 
 ---
