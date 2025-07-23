@@ -26,9 +26,9 @@
 
 ## 📈 آمار گیت‌هاب:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saeedkhz\&show_icons=true\&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saweedkh\&show_icons=true\&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saeedkhz\&layout=compact\&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saweedkh\&layout=compact\&theme=radical)
 
 ---
 
@@ -42,7 +42,7 @@
 
 ## 🐍 Snake Contribution Animation
 
-![snake gif](https://github.com/saeedkhz/saeedkhz/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/saweedkh/saweedkh/blob/output/github-contribution-grid-snake.svg)
 
 
 ---
